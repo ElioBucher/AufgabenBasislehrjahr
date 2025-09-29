@@ -1,0 +1,14 @@
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\bin\Debug\net9.0\Tasks.exe
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\bin\Debug\net9.0\Tasks.deps.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\bin\Debug\net9.0\Tasks.runtimeconfig.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\bin\Debug\net9.0\Tasks.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\bin\Debug\net9.0\Tasks.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.AssemblyInfo.cs
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\refint\Tasks.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\Tasks.genruntimeconfig.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Tasks\obj\Debug\net9.0\ref\Tasks.dll

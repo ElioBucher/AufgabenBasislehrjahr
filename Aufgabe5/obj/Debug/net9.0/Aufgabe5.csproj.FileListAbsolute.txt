@@ -1,0 +1,14 @@
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\bin\Debug\net9.0\Aufgabe5.exe
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\bin\Debug\net9.0\Aufgabe5.deps.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\bin\Debug\net9.0\Aufgabe5.runtimeconfig.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\bin\Debug\net9.0\Aufgabe5.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\bin\Debug\net9.0\Aufgabe5.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.AssemblyInfoInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.AssemblyInfo.cs
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.csproj.CoreCompileInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\refint\Aufgabe5.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\Aufgabe5.genruntimeconfig.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe5\obj\Debug\net9.0\ref\Aufgabe5.dll
