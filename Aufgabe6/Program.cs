@@ -1,19 +1,26 @@
-﻿namespace Aufgabe6;
-
-class Program
+﻿namespace Aufgabe6
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("-----------");
-        Console.WriteLine("Kleines 1x1");
-        Console.WriteLine("-----------");
-        
-        for (int i = 1; i <= 100; i++)
+        static void Main(string[] args)
         {
-            Console.Write(i + "\t");
-            if (i % 10 == 0)
+            Console.WriteLine("-----------");
+            Console.WriteLine("Kleines 1x1");
+            Console.WriteLine("-----------");
+            
+            for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine(" ");
+                Console.Write(i + "\t");
+            }
+            Console.WriteLine();
+            
+            for (int i = 2; i <= 10; i++)
+            {
+                for (int j = 1; j <= 10; j++)
+                {
+                    Console.Write(i * j + "\t");
+                }
+                Console.WriteLine();
             }
         }
     }

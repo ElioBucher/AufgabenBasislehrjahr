@@ -6,7 +6,7 @@ class Program
     {
         double km;
         bool ready = false;
-        
+
         Console.WriteLine("Wie viele Kilometer möchtest du laufen?");
         Console.WriteLine(" ");
         km = Convert.ToInt32(Console.ReadLine());
@@ -25,7 +25,8 @@ class Program
             if (bereit == "Ja" || bereit == "ja")
             {
                 ready = true;
-            } else if (bereit == "Nein" || bereit == "nein")
+            }
+            else if (bereit == "Nein" || bereit == "nein")
             {
                 Console.WriteLine("Schwach");
                 Environment.Exit(0);
@@ -34,18 +35,17 @@ class Program
             {
                 Console.WriteLine("Falsche Eingabe...");
             }
-
-        
-
         }
 
-        for (int i = 1; i <= rounds; i++)
+        if (ready == true)
         {
-            Console.WriteLine("Du läufst Runde " + i);
-        }
+            for (int i = 1; i <= rounds; i++)
+            {
+                Console.WriteLine("Du läufst Runde " + i);
+            }
 
-        
-        Console.WriteLine("Du hast es geschafft!");
-        
+
+            Console.WriteLine("Du hast es geschafft!");
+        }
     }
 }
