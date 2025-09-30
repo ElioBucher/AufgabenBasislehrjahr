@@ -10,9 +10,20 @@ class Program
         Console.Write("Deine Eingabe: ");
         length = Convert.ToInt32(Console.ReadLine());
 
-        for (int headline = 0; headline < length; headline++)
+        for (int zeile = 0; zeile < length; zeile++)
         {
-            
+            for (int spalte = 0; spalte < length; spalte++)
+            {
+                if (spalte == zeile)
+                {
+                    Console.Write(" ");
+                }
+                else
+                {
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
         }
     }
 }
