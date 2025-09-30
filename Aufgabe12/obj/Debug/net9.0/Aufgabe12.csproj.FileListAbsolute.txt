@@ -1,0 +1,15 @@
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.AssemblyInfoInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.AssemblyInfo.cs
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.csproj.CoreCompileInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.sourcelink.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\bin\Debug\net9.0\Aufgabe12.exe
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\bin\Debug\net9.0\Aufgabe12.deps.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\bin\Debug\net9.0\Aufgabe12.runtimeconfig.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\bin\Debug\net9.0\Aufgabe12.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\bin\Debug\net9.0\Aufgabe12.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\refint\Aufgabe12.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\Aufgabe12.genruntimeconfig.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe12\obj\Debug\net9.0\ref\Aufgabe12.dll

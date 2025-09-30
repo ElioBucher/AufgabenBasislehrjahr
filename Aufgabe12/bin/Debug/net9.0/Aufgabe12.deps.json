@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aufgabe12/1.0.0": {
+        "runtime": {
+          "Aufgabe12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
