@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aufgabe17/1.0.0": {
+        "runtime": {
+          "Aufgabe17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
