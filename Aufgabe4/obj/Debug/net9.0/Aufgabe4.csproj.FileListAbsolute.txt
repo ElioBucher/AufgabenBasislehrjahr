@@ -12,3 +12,4 @@ C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe4\obj\Debug\net9.0\refint\Aufgab
 C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe4\obj\Debug\net9.0\Aufgabe4.pdb
 C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe4\obj\Debug\net9.0\Aufgabe4.genruntimeconfig.cache
 C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe4\obj\Debug\net9.0\ref\Aufgabe4.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Aufgabe4\obj\Debug\net9.0\Aufgabe4.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\bin\Debug\net9.0\Waldbrand.exe
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\bin\Debug\net9.0\Waldbrand.deps.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\bin\Debug\net9.0\Waldbrand.runtimeconfig.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\bin\Debug\net9.0\Waldbrand.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\bin\Debug\net9.0\Waldbrand.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.AssemblyInfoInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.AssemblyInfo.cs
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.csproj.CoreCompileInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.sourcelink.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\refint\Waldbrand.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\Waldbrand.genruntimeconfig.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Waldbrand\obj\Debug\net9.0\ref\Waldbrand.dll

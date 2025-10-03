@@ -1,0 +1,15 @@
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.exe
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.deps.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.runtimeconfig.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.AssemblyInfoInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.AssemblyInfo.cs
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.csproj.CoreCompileInputs.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.sourcelink.json
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\refint\Partnerarbeit.dll
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.pdb
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.genruntimeconfig.cache
+C:\Users\eliob\RiderProjects\ConsoleApp1\Partnerarbeit\obj\Debug\net9.0\ref\Partnerarbeit.dll

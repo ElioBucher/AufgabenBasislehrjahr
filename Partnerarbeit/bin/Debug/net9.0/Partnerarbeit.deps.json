@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Partnerarbeit/1.0.0": {
+        "runtime": {
+          "Partnerarbeit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partnerarbeit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
